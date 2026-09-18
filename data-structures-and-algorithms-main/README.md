@@ -17,3 +17,4 @@
 
 ```bash
 python scripts/generate_data.py --variant 20 --only arrays
+python lab01-complexity-starter.py --variant 20
