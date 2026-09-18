@@ -1,15 +1,19 @@
 # Лабораторная работа №1
 
-Вариант 20.
+## Анализ временной сложности элементарных алгоритмов
 
-Состав:
+**Вариант:** 20
+
+## Состав работы
+
 - lab01-complexity-starter.py — реализация алгоритмов
 - report.md — отчёт
 - lab01_loglog.png — график степенных алгоритмов
 - lab01_binary_pow.png — график бинарного возведения в степень
 
-Запуск:
+## Запуск
 
+Генерация данных:
+
+```bash
 python scripts/generate_data.py --variant 20 --only arrays
-
-python M1-intro-and-basic-structures/attachments/lab01-complexity-starter.py --variant 20
